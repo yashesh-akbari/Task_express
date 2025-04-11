@@ -51,18 +51,6 @@ Users can add tasks with a name and description, view them on the homepage, and 
 
 ---
 
-## 📸 Screenshots
-
-### ✅ Home Page
-- Add task via a form
-- See all added tasks below
-
-### 📋 Task Details Page
-- Displays selected task name and full description
-- Includes a link to go back to the home page
-
----
-
 ## 📁 Folder Structure
 
 ```
